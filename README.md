@@ -9,10 +9,13 @@ Dies ist ein Semester-Projekt im Kurs "Software Architektur & Design".
 
 ### 1.2 Containers
 
-#### 1.2.1 Server
+#### 1.2.1 Application Server
 
-#### 1.2.2 Client
+#### 1.2.2 Database Server
+
+#### 1.2.3 Client
 
 ### 1.3 Components
+- Reservationsmodul
 
 ### 1.4 Classes
