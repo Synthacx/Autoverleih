@@ -8,6 +8,10 @@ Dies ist ein Semester-Projekt im Kurs "Software Architektur & Design".
 ### 1.1 Context
 
 ### 1.2 Containers
+Three Thier:
+- Application Server
+- Database Server
+- CLient(s)
 
 #### 1.2.1 Application Server
 
