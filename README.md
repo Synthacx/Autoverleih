@@ -60,6 +60,12 @@ WEB CLient etc. Kommuniziert über HTTP (REST) mit dem Application Server.
 ### 1.4 Classes
 
 #### 1.4.1 Use-Cases (Brief Format)
+S = Search/Suchen
+
 - Sachbearbeiter:
-  - CRUD Kunden
-  - Search Kunden
+  - CRUDS Kunden
+  - CRUDS Autos
+  - CRUDS Reservationen
+
+- Kunde
+  - Auto reservieren
