@@ -61,5 +61,5 @@ WEB CLient etc. Kommuniziert über HTTP (REST) mit dem Application Server.
 
 #### 1.4.1 Use-Cases (Brief Format)
 - Sachbearbeiter:
-  -- CRUD Kunden
-  -- Search Kunden
+  - CRUD Kunden
+  - Search Kunden
