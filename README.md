@@ -58,3 +58,8 @@ WEB CLient etc. Kommuniziert über HTTP (REST) mit dem Application Server.
 - Autoverwaltung (cars)
 
 ### 1.4 Classes
+
+#### 1.4.1 Use-Cases (Brief Format)
+- Sachbearbeiter:
+-- CRUD Kunden
+-- Search Kunden
