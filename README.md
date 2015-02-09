@@ -73,7 +73,18 @@ S = Search/Suchen
 #### 1.4.2 Package Richtlinien
 - ch
   - zbw
-    - domain
-    - presentation / ui
-    - infrastructure
-    - ...
+    - car
+      - domain
+      - presentation / ui
+      - infrastructure
+      - ...
+    - customer
+      - domain
+      - presentation / ui
+      - infrastructure
+      - ...
+    - reservation
+      - domain
+      - presentation / ui
+      - infrastructure
+      - ...
