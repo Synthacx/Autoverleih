@@ -69,3 +69,11 @@ S = Search/Suchen
 
 - Kunde
   - Auto reservieren
+
+#### 1.4.2 Package Richtlinien
+- ch
+  - zbw
+    - domain
+    - presentation / ui
+    - infrastructure
+    - ...
